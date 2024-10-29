@@ -134,4 +134,9 @@ public class ContactTestWithTestNGTest extends BaseClass {
 			System.out.println("Test case fail");
 
 	}
+	
+	@Test
+	public void deletecontactTest() {
+		System.out.println("Contact Deleted");
+	}
 }
