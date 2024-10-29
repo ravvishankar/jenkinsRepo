@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-11T13:46:02 IST" name="Default suite" finished-at="2024-05-11T13:46:39 IST" duration-ms="37622">
+    <groups>
+    </groups>
+    <test started-at="2024-05-11T13:46:02 IST" name="Default test" finished-at="2024-05-11T13:46:39 IST" duration-ms="37622">
+      <class name="TestScripts.GiftshopTest">
+        <test-method signature="homePage()[pri:0, instance:TestScripts.GiftshopTest@201a4587]" started-at="2024-05-11T13:46:02 IST" name="homePage" finished-at="2024-05-11T13:46:39 IST" duration-ms="37561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+      </class> <!-- TestScripts.GiftshopTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
