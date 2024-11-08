@@ -23,7 +23,7 @@ public class Assignment5 {
 		System.out.println(country.size());
 		for (int i=0; i<country.size();i++) {
 			//if (country.get(i).getText().equalsIgnoreCase("Australia")) {
-			driver.findElement(by.)
+			//driver.findElement(by.)
 			//}
 		}
 

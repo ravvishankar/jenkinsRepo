@@ -21,15 +21,7 @@ public class RobotTest {
 		robo.keyPress(KeyEvent.VK_K);
 		robo.keyPress(KeyEvent.VK_A);
 		robo.keyPress(KeyEvent.VK_R);
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 	}
 
 }
